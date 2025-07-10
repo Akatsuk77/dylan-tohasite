@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/Akatsuk77/dylan-tohasite
 
 go 1.21
 
