@@ -1,6 +1,6 @@
-baseURL: https://Akatsuk77.github.io
-
 languageCode: bn
+
+baseURL: https://Akatsuk77.github.io
 title: "John's Blog"
 
 # Use Hugo modules to add theme
@@ -23,13 +23,8 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Dylan's Site"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -58,7 +53,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background-yushan.png
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
@@ -100,7 +95,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -117,7 +112,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -265,7 +260,7 @@ params:
         plyr:
           # options doc: https://github.com/sampotts/plyr#options
           # fullscreen: true
-    
+
     # Enables copy code button
     copyCodeButton:
       enable: true
@@ -273,7 +268,7 @@ params:
     # Enable reading time support in post cards and in post pages
     readingTime:
       enable: false
-    
+
     # Number of posts to show to each page. Default is "12"
     pagination:
        maxPostsPerPage: 12
