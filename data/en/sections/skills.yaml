@@ -13,7 +13,7 @@ buttons:
 - name: All
   filter: "all"
 - name: Language
-  filter: "basic"
+  filter: "language"
 - name: Visualisation
   filter: "visualisation"
 - name: ETL
@@ -24,39 +24,39 @@ buttons:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Snowflake
-  #logo: /images/sections/skills/snowflake-color.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: /images/sections/skills/snowflake-color.png
+  summary: "SQL querying for data exploration and transformation, managing roles & permissions, experience with time travel, partitioning and dbt integration."
   categories: ["etl"]
   url: "https://www.snowflake.com/en/"
 - name: BigQuery
-  #logo: /images/sections/skills/bigquery.svg
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  logo: /images/sections/skills/bigquery.svg
+  summary: "SQL querying for data exploration and transformation, with scheduled queries, views, and CTEs. Experience with cost optimization and performance tuning."
   categories: ["etl"]
   url: "https://cloud.google.com/bigquery"
 - name: dbt
-  #logo: /images/sections/skills/dbt-logo.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  logo: /images/sections/skills/dbt.png
+  summary: "  Comfortable with model creation, Jinja macros, tests, and documentation. Collaborate with teams using version control and deployment environments."
   categories: ["etl"]
   url: "https://www.getdbt.com/"
 - name: Tableau
-  #logo: /images/sections/skills/Tableau-Logo.png
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  logo: /images/sections/skills/tableau-software.png
+  summary: "Skilled at data modeling, calculated fields, and LOD expressions. Design dashboards that are intuitive and user-focused."
   categories: ["visualisation"]
   url: "https://www.tableau.com/"
 - name: Looker
-  #logo: /images/sections/skills/looker-studio.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  logo: /images/sections/skills/looker.png
+  summary: "Proficient in LookML, able to design self-serve dashboards tailored to business teams, experience integrating with Snowflake."
   categories: ["visualisation"]
   url: "https://cloud.google.com/looker"
 - name: SQL
-  #logo: /images/sections/skills/sql.png
-  summary: "Using as the main language for data transformation. Capable of writing clear, optimized, and secure queries integrating complex logics."
+  logo: /images/sections/skills/database.png
+  summary: "Proficient in writing complex queries using CTEs, window functions, aggregations, and joins, for reporting, exploratory analysis, and data modeling."
   categories: ["language"]
 - name: Python
-  #logo: /images/sections/skills/python.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  logo: /images/sections/skills/python.webp
+  summary: "Comfortable building notebooks for analysis and sharing reproducible results, using key libraries such as pandas, numpy, matplotlib, seaborn, scikit-learn."
   categories: ["language"]
 - name: Git
-  #logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly using Github and GitLab."
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Experience using Git in conjunction with dbt, Looker, and CI/CD pipelines."
   categories: ["others"]

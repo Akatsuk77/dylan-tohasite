@@ -20,7 +20,23 @@ company:
 # resume: "files/resume - dylan.pdf"
 
 # a summary about you
-summary: 'I’m passionate about helping others, constantly learning new skills, and using data and knowledge to drive meaningful, positive change.'
+summary: 'I’m passionate about helping others, constantly learning new skills
+, and using data and knowledge to drive meaningful, positive change.
+<br/>
+<br/>
+From a scientific background, I learned
+how to use method and rigor to build
+analytical frameworks in order to add
+value to data. My goal is always to
+turn data into relevant actionable
+insights so to help others take informed
+decisions.
+<br/>
+<br/>
+I have experience across mobile gaming and SaaS scale-up environments, combining a strong business intelligence skill set with a focus on user acquisition
+, product analytics, and sustainability reporting.
+'
+
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -37,7 +53,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume - dylan.pdf"
+  url: "files/resume-dylan.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -64,14 +80,24 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
+  name: Communication
+  percentage: 90
+  color: "D3D4D9"
+
+- type: soft-skill-indicator
   name: Data Visualisation
   percentage: 85
   color: yellow
 
 - type: soft-skill-indicator
-  name: Communication
-  percentage: 90
+  name: Data ETL
+  percentage: 80
   color: orange
+
+- type: soft-skill-indicator
+  name: Data Science
+  percentage: 70
+  color: green
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
