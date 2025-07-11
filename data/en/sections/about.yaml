@@ -49,6 +49,14 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/dylan-bran%C3%A7on-554579a9/"
 
+- name: UpWork
+  icon: "fa-brands fa-upwork"
+  url: "https://www.upwork.com/freelancers/~01d8deaf9581ed956d?viewMode=1"
+
+- name: Malt
+  icon: "fa-solid fa-calendar"
+  url: "https://www.malt.fr/profile/dylanbrancon"
+
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
