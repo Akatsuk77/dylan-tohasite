@@ -20,17 +20,17 @@ experiences:
     # company overview
     overview: Original Games is a casual mobile game studio. The company focuses on developing fun, data-driven gaming experiences for a global audience, often using strong analytics to iterate on game design and user acquisition strategies.
   positions:
-    - designation: Senior Data Analyst
-      start: June 2025
-      responsibilities:
-        - Analyze player behavior and design A/B tests to improve gameplay, retention, and monetization, turning data into actionable insights to enhance the overall player experience
-    - designation: Data Analyst
-      start: Feb 2025
-      end: May 2025
-    # give some points about what was your responsibilities at the company.
-      responsibilities:
-      - Support the Marketing and User Acquisition teams by delivering performance insights, optimizing campaigns, and helping guide strategic decisions.
-      - Design and monitor prediction models to assess future profits
+  - designation: Senior Data Analyst
+    start: Feb 2025
+    responsibilities:
+    - Analyze player behavior and design A/B tests to improve gameplay, retention, and monetization, turning data into actionable insights to enhance the overall player experience
+    - Support the Marketing and User Acquisition teams by delivering performance insights, optimizing campaigns, and helping guide strategic decisions.
+    - Design and monitor prediction models to assess future profits<br>
+
+      <h6>Results</h6>
+    - Designed advanced Tableau visualisation for C-level stakeholders
+    - Improved our prediction algorithm
+    - Accompany Product Team in AB Testing, from design to results
 
 - company:
     name: Contentsquare
@@ -41,13 +41,18 @@ experiences:
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: Contentsquare is a global SaaS company providing a digital experience analytics platform. It helps brands understand how users interact with their websites and apps by capturing behavioral data and visualizing friction points to improve UX, conversion, and accessibility.
   positions:
-  - designation: Data Analyst
+  - designation: Data Analyst BI
     start: July 2023
     end: Jan 2025
     responsibilities:
     - Led analytics on BI projects, building data pipelines for sustainability, procurement, HR, and finance teams.
     - Worked within a modern data stack (Snowflake, dbt, Git) to ensure reliable and scalable reporting.
-    - Supported ESG initiatives by transforming operational data into clear, actionable insights.
+    - Supported ESG initiatives by transforming operational data into clear, actionable insights.<br>
+      
+      <h6>Results</h6>
+    - Delivered our second Sustainability Report, including our annual Carbon Accounting
+    - Built dbt pipelines to deliver insights across several teams, from source data integration to data quality
+    - Took part in Hackathon to create a website carbon accounting tool integrated in Contentsquare suite
 - company:
     name: Gameloft
     url: "https://www.fr.gameloft.com/"
@@ -64,7 +69,13 @@ experiences:
     - Produce insights, viz and dashboards to marketing and game teams, across Gameloft portfolio
     - Develop our analytical framework for A/BTest design, UA Performance and Game performance KPIs
     - Work with Data Scientist to build predictive models
-    - Perform Data QA to ensure data reliability
+    - Perform Data QA to ensure data reliability<br>
+      
+      <h6>Results</h6>
+    - Designed a performance evaluation system for iOS after SKAN release
+    - Delivered cohort projection models to predict cashflow
+    - Improved our UA targets hand in hand with UA Leads
+    - Launched monetization AB Test in order to penetrate new markets
 - company:
     name: Nielsen IQ
     url: "https://nielseniq.com/global/fr/"
@@ -80,4 +91,9 @@ experiences:
     responsibilities:
     - Data mining so to provide insights and answer clients briefs with clear recommendations
     - Build dashboard and visualization
-    - Train client teams on our stack of data tools
+    - Train client teams on our stack of data tools<br>
+      
+      <h6>Results</h6>
+    - Consulted for over 10 accounts (international FMCG manufacturers)
+    - Onboarded more than 200 clients on our internal tools
+    - Took part in the delivery of a new data extraction tool
