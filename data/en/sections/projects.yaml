@@ -2,7 +2,7 @@
 section:
   name: Projects
   id: projects
-  enable: true
+  enable: false
   weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -21,14 +21,21 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
+- name: Sustainability Reporting
+  #logo: /images/sections/projects/kubernetes.png
   role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  timeline: "December 2023 - April 2024"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://assets.ctfassets.net/gwbpo1m641r7/7vITumQGgDmZWzMrrM4MQf/1261c82df55b33202fd34e35c695822b/2024_09_24-Sustainability-Report-2023.pdf"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Carbon Accounting, SBTI Target validation and Net-Zero Recommendations (Part 2), as well as BI Reporting Covering GRI Requirements (Part 5)
+  tags: ["bi", "sustainability"]
+
+- name: A sample academic paper
+  role: Team Lead
+  timeline: "Jan 2017 - Nov 2017"
+  url: "https://www.example.com"
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+  tags: ["academic","iot"]
 
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png
@@ -38,13 +45,6 @@ projects:
   #url: ""
   summary: An Open Source Machine Learning Framework for Everyone.
   tags: ["professional", "machine-learning"]
-
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
 
 - name: Nocode
   logo: /images/sections/projects/no-code.png
