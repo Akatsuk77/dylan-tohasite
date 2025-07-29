@@ -160,7 +160,8 @@ params:
         #   id: <your counterdev id>
         # # GoatCounter
         goatCounter:
-           code: <script data-goatcounter="https://dylanbrancon.goatcounter.com/count"async src="//gc.zgo.at/count.js"></script>
+           code: <script data-goatcounter="https://dylanbrancon.goatcounter.com/count"
+                         async src="//gc.zgo.at/count.js"></script>
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
