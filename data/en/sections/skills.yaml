@@ -37,6 +37,7 @@ skills:
   logo: /images/sections/skills/clickhouse.svg
   summary: "Practical experience with ClickHouse columnar database for analytical queries."
   categories: ["etl"]
+  url: "https://clickhouse.com/"
 - name: dbt
   logo: /images/sections/skills/dbt.png
   summary: "  Comfortable with model creation, Jinja macros, tests, and documentation. Collaborate with teams using version control and deployment environments."
@@ -45,7 +46,7 @@ skills:
   logo: /images/sections/skills/airflow.webp
   summary: "Experience with workflow orchestration and data pipeline management using Airflow DAGs and task scheduling."
   categories: ["etl"]
-  url: "https://www.getdbt.com/"
+  url: "https://airflow.apache.org/"
 - name: Tableau
   logo: /images/sections/skills/tableau-software.png
   summary: "Skilled at data modeling, calculated fields, and LOD expressions. Design dashboards that are intuitive and user-focused."
